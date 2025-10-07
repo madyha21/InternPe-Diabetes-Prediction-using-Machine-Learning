@@ -1,0 +1,2 @@
+# InternPe-Diabetes-Prediction-using-Machine-Learning
+This project aims to build a Machine Learning model that predicts whether a person is diabetic or not based on medical diagnostic data. It focuses on implementing Support Vector Machine (SVM) for classification tasks.  The model uses a dataset (diabetes.csv) containing several health-related attributes such as Glucose Level, Blood pressure etc. 
